@@ -1,7 +1,7 @@
 ### A project which i used to practice writing CSS media queries.
 
 
-<p>I completed this project while following the tutorial by <a href="https://github.com/JoyShaheb">Joy Shabeb</a> on his <a href="https://www.youtube.com/channel/UCHG7IJuST_BXJkne-0u0Xtw">YouTube channel</a> </p>
+<p>I completed this project while following the tutorial by <a href="https://github.com/JoyShaheb">Joy Shaheb</a> on his <a href="https://www.youtube.com/channel/UCHG7IJuST_BXJkne-0u0Xtw">YouTube channel</a> </p>
 
 <h3>Some of my takeaways from the tutorial:</h3>
 
